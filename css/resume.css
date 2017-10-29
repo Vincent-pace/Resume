@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
-  font-family: 'Open Sans', serif;
+  font-family: 'Microsoft YaHei', serif;
   padding-top: 54px;
   color: #868e96; }
 
@@ -19,13 +19,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
+  font-family: 'Microsoft YaHei', serif;
+  font-weight: 500;
   text-transform: uppercase;
   color: #343a40; }
 
 h1 {
-  font-size: 6rem;
+  font-size: 5rem;
   line-height: 5.5rem; }
 
 h2 {
@@ -34,7 +34,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Microsoft YaHei', serif;
   font-size: 1.35rem; }
 
 .list-social-icons a {
@@ -87,8 +87,8 @@ h2 {
 
 section.resume-section {
   border-bottom: 1px solid #dee2e6;
-  padding-top: 5rem !important;
-  padding-bottom: 5rem !important; }
+  padding-top: 15px !important;
+  padding-bottom: 15px !important; }
   section.resume-section .resume-item .resume-date {
     min-width: none; }
 
@@ -100,16 +100,16 @@ section.resume-section {
 
 @media (min-width: 992px) {
   section.resume-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important; } }
+    padding-top: 15px !important;
+    padding-bottom: 15px !important; } }
 
 .bg-primary {
-  background-color: rgb(154, 108, 96) !important; }
+  background-color: #626265; }
 
 .text-primary {
   color: #BD5D38 !important; }
 
 a {
-  color: #BD5D38; }
+  color: #d97e4b; }
   a:hover, a:focus, a:active {
     color: #824027; }
